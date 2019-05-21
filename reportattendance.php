@@ -12,7 +12,7 @@ if (logged_in() && $_SESSION['status'] == 'employee') {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Dashboard</title>
+	<title>Attendance Report</title>
     <link rel="stylesheet" type="text/css" href="css/website.css">
 </head>
 <body>
